@@ -1,0 +1,16 @@
+.folder-icon{
+  width: 25px;
+}
+.file-icon{
+  width: 15px;
+}
+ul{
+  list-style-type: none;
+  display: block;
+}
+.right-menu{
+  background-color: bisque;
+  width:max-content;
+  height: max-content;
+  padding: 20px;
+}
